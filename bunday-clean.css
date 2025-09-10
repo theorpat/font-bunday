@@ -1,31 +1,31 @@
 @font-face {
     font-family: 'Bunday Clean';
-    src: url('https://github.com/theorpat/font-bunday/blob/main/buntype_-_bundayclean-bold-webfont.woff2') format('woff2'),
-         url('https://github.com/theorpat/font-bunday/blob/main/buntype_-_bundayclean-bold-webfont.woff') format('woff');
+    src: url('https://theorpat.github.io/font-bunday/buntype_-_bundayclean-bold-webfont.woff2') format('woff2'),
+         url('https://theorpat.github.io/font-bunday/buntype_-_bundayclean-bold-webfont.woff') format('woff');
     font-weight: 700;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'Bunday Clean';
-    src: url('https://github.com/theorpat/font-bunday/blob/main/buntype_-_bundayclean-ligh-webfont.woff2') format('woff2'),
-         url('https://github.com/theorpat/font-bunday/blob/main/buntype_-_bundayclean-ligh-webfont.woff') format('woff');
+    src: url('https://theorpat.github.io/font-bunday/buntype_-_bundayclean-ligh-webfont.woff2') format('woff2'),
+         url('https://theorpat.github.io/font-bunday/buntype_-_bundayclean-ligh-webfont.woff') format('woff');
     font-weight: 300;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'Bunday Clean';
-    src: url('https://github.com/theorpat/font-bunday/blob/main/buntype_-_bundayclean-regu-webfont.woff2') format('woff2'),
-         url('https://github.com/theorpat/font-bunday/blob/main/buntype_-_bundayclean-regu-webfont.woff') format('woff');
+    src: url('https://theorpat.github.io/font-bunday/buntype_-_bundayclean-regu-webfont.woff2') format('woff2'),
+         url('https://theorpat.github.io/font-bunday/buntype_-_bundayclean-regu-webfont.woff') format('woff');
     font-weight: 400;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'Bunday Clean';
-    src: url('https://github.com/theorpat/font-bunday/blob/main/buntype_-_bundayclean-sebold-webfont.woff2') format('woff2'),
-         url('https://github.com/theorpat/font-bunday/blob/main/buntype_-_bundayclean-sebold-webfont.woff') format('woff');
+    src: url('https://theorpat.github.io/font-bunday/buntype_-_bundayclean-sebold-webfont.woff2') format('woff2'),
+         url('https://theorpat.github.io/font-bunday/buntype_-_bundayclean-sebold-webfont.woff') format('woff');
     font-weight: 600;
     font-style: normal;
 }
